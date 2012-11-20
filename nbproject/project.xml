@@ -26,7 +26,7 @@
             </test-roots>
         </data>
         <libraries xmlns="http://www.netbeans.org/ns/ant-project-libraries/1">
-            <definitions>D:\Users\Karl\Documents\NetBeansLibs\nblibraries.properties</definitions>
+            <definitions>.\lib\nblibraries.properties</definitions>
         </libraries>
     </configuration>
 </project>
