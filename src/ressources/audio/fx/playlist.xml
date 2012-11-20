@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <playlist>
+        <name>run</name>
+        <media>0</media>
+        <media>1</media>
+        <media>2</media>
+        <media>3</media>
+        <media>4</media>
+        <media>5</media>
+        <media>6</media>
+        <media>7</media>
+        <media>8</media>
+        <media>9</media>
+        <media>10</media>
+        <media>11</media>
+    </playlist>
+    <playlist>
+        <name>crouch</name>
+        <media>12</media>
+        <media>13</media>
+        <media>14</media>
+        <media>15</media>
+        <media>16</media>
+        <media>17</media>
+    </playlist>
+    <playlist>
+        <name>jump</name>
+        <media>18</media>
+        <media>19</media>
+    </playlist>
+    <playlist>
+        <name>bonus</name>
+        <media>20</media>
+    </playlist>
+    <playlist>
+        <name>malus</name>
+        <media>21</media>
+    </playlist>
+</root>
