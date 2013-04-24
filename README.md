@@ -10,7 +10,7 @@ Réalisé par :
 * Thibaud Renaux
 * [Karl Woditsch](https://github.com/Rauks)
 
-Pour plus d'informations : http://www.play-joop.net
+Pour plus d'informations : http://joop.kirauks.net
 
 Impressions d'écrans
 ====================
