@@ -5,7 +5,7 @@ Projet de 1ère année de l'ENSISA
 
 Réalisé par :
 * [Simon Chevalier](https://github.com/astazou)
-* Laetitia Gaignier
+* [Laetitia Gaignier](https://github.com/Laetitia28)
 * [Florent Lacroix](https://github.com/Dahwar)
 * Thibaud Renaux
 * [Karl Woditsch](https://github.com/Rauks)
